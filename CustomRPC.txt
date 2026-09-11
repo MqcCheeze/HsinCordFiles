@@ -1,6 +1,7 @@
 Activity Type: Playing
 Application Name: with Hsin ♡
 
+Description: Mommy, I've never laid eyes on a woman with so much beauty. Every second of the day I think of you 💖💖😭
 Large Image URL/Key: https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/HsinIcon.png?raw=true
 Large Image Text: Hsin
 Large Image clickable URL: https://wutheringwaves.kurogames.com/en/main#main
