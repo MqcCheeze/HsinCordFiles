@@ -1,0 +1,14 @@
+Activity Type: Playing
+Application Name: with Denia ♡
+
+Large Image URL/Key: https://github.com/MqcCheeze/DeniaCordFiles/blob/main/Resources/DeniaIcon.png?raw=true
+Large Image Text: Denia
+Large Image clickable URL: https://wutheringwaves.kurogames.com/en/main#main
+Small Image URL/Key: https://github.com/MqcCheeze/DeniaCordFiles/blob/main/Resources/StartorchAcademyIcon.png?raw=true
+Small Image Text: Startorch Academy
+
+Button1 URL: ###
+Button1 Text: ###
+
+Button2 URL: ###
+Button2 Text: ###
