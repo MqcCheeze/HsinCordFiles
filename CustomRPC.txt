@@ -1,11 +1,11 @@
 Activity Type: Playing
-Application Name: with Denia ♡
+Application Name: with Hsin ♡
 
-Large Image URL/Key: https://github.com/MqcCheeze/DeniaCordFiles/blob/main/Resources/DeniaIcon.png?raw=true
-Large Image Text: Denia
+Large Image URL/Key: https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/HsinIcon.png?raw=true
+Large Image Text: Hsin
 Large Image clickable URL: https://wutheringwaves.kurogames.com/en/main#main
-Small Image URL/Key: https://github.com/MqcCheeze/DeniaCordFiles/blob/main/Resources/StartorchAcademyIcon.png?raw=true
-Small Image Text: Startorch Academy
+Small Image URL/Key: https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/HsinIcon2.png?raw=true
+Small Image Text: Mengzhou
 
 Button1 URL: ###
 Button1 Text: ###
