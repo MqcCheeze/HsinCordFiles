@@ -121,7 +121,7 @@
   --interactive-text-active: var(--accent-dark);
   /* OTHER */
   --direct-message-text: "WavesLine";
-  --direct-message-icon: url(https://raw.githubusercontent.com/MqcCheeze/HsinCordFiles/3637a8e278e97a2db75915bdec8f47748d5b4150/Resources/wavelines.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --direct-message-icon: url(https://raw.githubusercontent.com/MqcCheeze/HsinCordFiles/715c5ddea8efe1b2b2d1e72feaf5da37938a2b99/Resources/wavelines.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
 }
 
 /* THEME SPECIFIC SHADING */
