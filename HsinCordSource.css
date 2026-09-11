@@ -17,10 +17,6 @@
 :root {
   /* WALLPAPER VARIANT */
   --wallpaper-1: url("https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper1.png?raw=true");
-  --wallpaper-2: url("https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper2.png?raw=true");
-  --wallpaper-3: url("https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper3.png?raw=true");
-  --wallpaper-4: url("https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper4.png?raw=true");
-  --wallpaper-5: url("https://github.com/MqcCheeze/HsinCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper5.png?raw=true");
 
   --wallpaper-variant: var(
     --wallpaper-1
@@ -28,10 +24,10 @@
 
   /* ACCENT COLORS */
 
-  --accent-light: #e9c9d6;
-  --accent-dark: #1e2852;
+  --accent-light: #d12a2a;
+  --accent-dark: #f7f7f3;
   --main-text-color: #fbfbfb;
-  --link-text-color: #e6b1c6;
+  --link-text-color: #d12a2a;
 
   --main-color: var(
     --accent-light
