@@ -24,10 +24,10 @@
 
   /* ACCENT COLORS */
 
-  --accent-light: #d12a2a;
+  --accent-light: #df3838;
   --accent-dark: #f7f7f3;
   --main-text-color: #fbfbfb;
-  --link-text-color: #d12a2a;
+  --link-text-color: #df3838;
 
   --main-color: var(
     --accent-light
