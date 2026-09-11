@@ -84,7 +84,7 @@
     --background-filter
   ); /* user modal background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: var(--background-filter);] */
   /* HOME ICON */
-  --home-icon: url(https://raw.githubusercontent.com/MqcCheeze/HsinCordFiles/80e34e5491764d85dbe032462e055aeedaeb5115/Resources/Home/HomeLogo.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://raw.githubusercontent.com/MqcCheeze/HsinCordFiles/a1b877f2141a5b5f8b287ae1f0366ad09cdd198d/Resources/Home/HomeLogo.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-size: cover; /* home button icon size (px) [default:cover] */
   /* FONTS */
   --main-font:
