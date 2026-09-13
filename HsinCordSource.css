@@ -25,7 +25,7 @@
   /* ACCENT COLORS */
 
   --accent-light: #df3838;
-  --accent-dark: #f7f7f3;
+  --accent-dark: #0f0 /*var(--accent-dark)*/;
   --main-text-color: #fbfbfb;
   --link-text-color: #ff7171;
 
